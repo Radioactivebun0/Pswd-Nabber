@@ -1,6 +1,6 @@
 # Pswd-Nabber
 A password stealer for saved passwords on a web browser. 
-# you must know that I am not the best programmed and this is just me messing around.
+# You must know that I am not the best programmed and this is just me messing around.
 
 In Pswd_stealer.py change "Your Discord webhook url" to you webhook url
 
